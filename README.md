@@ -16,3 +16,8 @@ Have fun!
 Put drivers of version you need in script folder and update file names in the script.
 I guess vars you may need to update are `DRIVER_VERSION`, `COMMON_FILE`
 (its version may be different that capt file version), `CAPT_FILE`.
+
+# Important
+
+When trying to print make sure you use A4 paper in print task!
+If it still doesn't print use `sudo captstatusui -P LBP-1120` to see the problem.
